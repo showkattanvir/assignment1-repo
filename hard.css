@@ -1,0 +1,16 @@
+section{
+    display: flex;
+
+}
+
+
+.text1_div{
+    width: 50%;
+
+}
+.pic1_div{
+    width: 50%;
+}
+.pic1{
+    width: 40%;
+}
